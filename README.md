@@ -13,10 +13,7 @@
 [![MohammadAmin's github stats](https://github-readme-stats.vercel.app/api?username=MohammadAminDHM&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAminDHM&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-  
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
