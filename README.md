@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Mohammad%20Amin%20Dehmolaee&fontSize=40&animation=scaleIn&fontAlignY=38&desc=Computer%20Vision%20Specialist%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Mohammad%20Amin%20Dehmolaee&fontSize=40&animation=scaleIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20&descAlignY=51&descAlign=62)
 
 ### About me :rocket:
 - I am a Computer Vision Specialist 🤖
